@@ -1,3 +1,11 @@
+/**
+ * Performs binary search on a sorted array.
+ *
+ * @param arr The sorted array in which to search.
+ * @param target The value to search for.
+ * @return The index of the target element if found, otherwise -1.
+ */
+
 // BinarySearch.java
 public class BinarySearch {
     public static int binarySearch(int[] arr, int target) {
