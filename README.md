@@ -18,6 +18,6 @@ This project provides a set of utility functions and algorithms, including:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/JavaAlgorithms.git
+https://github.com/Ekechi123/JavaAlgorithms.git
 
 
